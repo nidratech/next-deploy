@@ -50,7 +50,7 @@
     "klaw-sync": "^6.0.0",
     "mime-types": "^2.1.27",
     "minimist": "^1.2.5",
-    "next": "^10.0.3",
+    "next": "^11.1.0",
     "path-to-regexp": "^6.2.0",
     "prettyoutput": "^1.2.0",
     "ramda": "^0.27.1",
